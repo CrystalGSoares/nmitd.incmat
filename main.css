@@ -435,6 +435,11 @@ h6 {
   }
 }
 
+font-face {
+  font-family: "bootstrap-icons";
+  src: url("./bootstrap-icons.woff") format("woff"); /* This is the connection! */
+}
+
 /*--------------------------------------------------------------
 # Global Footer
 --------------------------------------------------------------*/
